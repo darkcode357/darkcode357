@@ -1,6 +1,6 @@
 
-<iframe src="https://giphy.com/embed/UqxVRm1IaaIGk" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UqxVRm1IaaIGk"></a></p>
-<br><br><br>
+<img align="right" width="300" src="https://giphy.com/embed/UqxVRm1IaaIGk" />
+
 
 # darkcode357's code lair
 
