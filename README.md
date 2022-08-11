@@ -1,8 +1,15 @@
+
+<iframe src="https://giphy.com/embed/UqxVRm1IaaIGk" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UqxVRm1IaaIGk"></a></p>
+<br><br><br>
+
 # darkcode357's code lair
+
 
 <h2 align="center">Hi 👋, I'm Luiz Corrêa</h1>
 
 Hey! I'm darkcode357, a developer crazy about offensive security. For over 5 years solving IT security issues from both defensive and offensive sides. I've always been more drawn to sharing knowledge through my code, tools, scripts, exploits rather than writing posts. With that on the table, this Github account serves as my legacy for future security officers. ethics above all, with great powers comes great responsibilities, make good use of children
+
+
 
 #  My Personal History
 
