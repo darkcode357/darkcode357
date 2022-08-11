@@ -1,5 +1,5 @@
 
-<img align="right" width="300" src="https://giphy.com/embed/UqxVRm1IaaIGk" />
+<iframe width="100%" height="475" src="https://dotnetfiddle.net/Widget/CsCons" frameborder="0"></iframe>
 
 
 # darkcode357's code lair
